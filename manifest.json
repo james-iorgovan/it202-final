@@ -1,7 +1,7 @@
 {
-  "name": "Hello Weather",
+  "name": "Final Exam",
   "icons": [{
-    "src": "images/hw.png",
+    "src": "hw.png",
       "sizes": "128x128",
       "type": "image/png"
     }],
